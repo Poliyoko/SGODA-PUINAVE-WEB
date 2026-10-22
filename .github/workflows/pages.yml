@@ -1,7 +1,5 @@
 name: Publicar SGODA-PUINAVE Web en GitHub Pages
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 permissions:
   contents: read
@@ -17,7 +15,11 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
+      - name: Obtener exclusivamente la distribucion compilada
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          persist-credentials: false
       - name: Comprobar distribucion compilada REAL508
         run: |
           set -euo pipefail
