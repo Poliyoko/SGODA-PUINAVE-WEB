@@ -1,6 +1,9 @@
 name: Publicar SGODA-PUINAVE Web en GitHub Pages
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - gh-pages
 permissions:
   contents: read
   pages: write
