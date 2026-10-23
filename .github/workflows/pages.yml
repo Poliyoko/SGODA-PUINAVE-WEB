@@ -29,17 +29,18 @@ jobs:
           test -f index.html
           test -f main.dart.js
           test -f flutter_bootstrap.js
-          test -f corpus.json
-          test -f audio-manifest.json
+          test -f assets/real508/corpus.json
+          test -f assets/real508/category-assignments.json
+          test ! -f audio-manifest.json
           python3 - <<'PY'
           import json
-          with open('corpus.json',encoding='utf-8') as f: c=json.load(f)
-          with open('audio-manifest.json',encoding='utf-8') as f: a=json.load(f)
+          with open('assets/real508/corpus.json',encoding='utf-8') as f: c=json.load(f)
+          with open('assets/real508/category-assignments.json',encoding='utf-8') as f: a=json.load(f)
           assert len(c['records'])==508
           assert len({r['entryId'] for r in c['records']})==508
-          assert len(a['audio'])==508
+          assert len(a['records'])==508
           assert '/SGODA-PUINAVE-WEB/' in open('index.html',encoding='utf-8').read()
-          print('PASS: compilado REAL508 listo para GitHub Pages')
+          print('PASS: compilado REAL508 sin manifiesto privado listo para Pages')
           PY
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
