@@ -29,13 +29,13 @@ jobs:
           test -f index.html
           test -f main.dart.js
           test -f flutter_bootstrap.js
-          test -f assets/real508/corpus.json
-          test -f assets/real508/category-assignments.json
+          test -f assets/assets/real508/corpus.json
+          test -f assets/assets/real508/category-assignments.json
           test ! -f audio-manifest.json
           python3 - <<'PY'
           import json
-          with open('assets/real508/corpus.json',encoding='utf-8') as f: c=json.load(f)
-          with open('assets/real508/category-assignments.json',encoding='utf-8') as f: a=json.load(f)
+          with open('assets/assets/real508/corpus.json',encoding='utf-8') as f: c=json.load(f)
+          with open('assets/assets/real508/category-assignments.json',encoding='utf-8') as f: a=json.load(f)
           assert len(c['records'])==508
           assert len({r['entryId'] for r in c['records']})==508
           assert len(a['records'])==508
