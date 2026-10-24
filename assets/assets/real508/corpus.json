@@ -1,0 +1,5087 @@
+{
+  "dataset": "REAL508",
+  "source": "Repositorio lexico base 508.xlsx",
+  "record_count": 508,
+  "records": [
+    {
+      "entryId": "000001",
+      "languages": {
+        "pu": "A",
+        "es": "Mí"
+      },
+      "pronunciation": "(a)",
+      "audioBatch": 1,
+      "media": []
+    },
+    {
+      "entryId": "000002",
+      "languages": {
+        "pu": "AYOT",
+        "es": "Mi  perro"
+      },
+      "pronunciation": "ayot",
+      "audioBatch": 1,
+      "media": []
+    },
+    {
+      "entryId": "000003",
+      "languages": {
+        "pu": "ANUGCAT",
+        "es": "Me  voy"
+      },
+      "pronunciation": "anugcat",
+      "audioBatch": 1,
+      "media": []
+    },
+    {
+      "entryId": "000004",
+      "languages": {
+        "pu": "AJÜOT",
+        "es": "Mis  amigos"
+      },
+      "pronunciation": "ajüot",
+      "audioBatch": 1,
+      "media": []
+    },
+    {
+      "entryId": "000005",
+      "languages": {
+        "pu": "AÉB",
+        "es": "Estoy enfermo"
+      },
+      "pronunciation": "aéb",
+      "audioBatch": 1,
+      "media": []
+    },
+    {
+      "entryId": "000006",
+      "languages": {
+        "pu": "ABARÚ",
+        "es": "Hijo-hija sin  reconocimiento paterno o materno"
+      },
+      "pronunciation": "(avarú)",
+      "audioBatch": 1,
+      "media": []
+    },
+    {
+      "entryId": "000007",
+      "languages": {
+        "pu": "ABUNÍ",
+        "es": "Jabón"
+      },
+      "pronunciation": "(avuní)",
+      "audioBatch": 1,
+      "media": []
+    },
+    {
+      "entryId": "000008",
+      "languages": {
+        "pu": "ABUNISICOI",
+        "es": "Jabón de baño"
+      },
+      "pronunciation": "(abunísicoi)",
+      "audioBatch": 1,
+      "media": []
+    },
+    {
+      "entryId": "000009",
+      "languages": {
+        "pu": "ACÁ",
+        "es": "Sapoara"
+      },
+      "pronunciation": "(aká-)",
+      "audioBatch": 1,
+      "media": []
+    },
+    {
+      "entryId": "000010",
+      "languages": {
+        "pu": "ACAYA",
+        "es": "Marañón"
+      },
+      "pronunciation": "(akaya-)",
+      "audioBatch": 1,
+      "media": []
+    },
+    {
+      "entryId": "000011",
+      "languages": {
+        "pu": "AÍ",
+        "es": "Humo"
+      },
+      "pronunciation": "(aí)",
+      "audioBatch": 1,
+      "media": []
+    },
+    {
+      "entryId": "000012",
+      "languages": {
+        "pu": "AI",
+        "es": "Voy"
+      },
+      "pronunciation": "(ai)",
+      "audioBatch": 1,
+      "media": []
+    },
+    {
+      "entryId": "000013",
+      "languages": {
+        "pu": "AI MAN",
+        "es": "Voy a correr"
+      },
+      "pronunciation": "(ai man)",
+      "audioBatch": 1,
+      "media": []
+    },
+    {
+      "entryId": "000014",
+      "languages": {
+        "pu": "AICA",
+        "es": "Pez corroncho sierra (El corroncho y la sierra, Pterodoras rivasi)"
+      },
+      "pronunciation": "(aíca)",
+      "audioBatch": 1,
+      "media": []
+    },
+    {
+      "entryId": "000015",
+      "languages": {
+        "pu": "AIIN",
+        "es": "Ave pava negra, La pava aburria (Aburria aburri), también conocida como pava negra, guayón, pava carunculada"
+      },
+      "pronunciation": "(aíin)",
+      "audioBatch": 1,
+      "media": []
+    },
+    {
+      "entryId": "000016",
+      "languages": {
+        "pu": "AIRE",
+        "es": "Rebalse o tambien se define como  fenómeno natural del desbordamiento estacional de los ríos que inunda extensas áreas de la selva baja"
+      },
+      "pronunciation": "(a-ire)",
+      "audioBatch": 1,
+      "media": []
+    },
+    {
+      "entryId": "000017",
+      "languages": {
+        "pu": "AG",
+        "es": "Gritar"
+      },
+      "pronunciation": "(ác)",
+      "audioBatch": 1,
+      "media": []
+    },
+    {
+      "entryId": "000018",
+      "languages": {
+        "pu": "MUAYU",
+        "es": "Gritar"
+      },
+      "pronunciation": "(muallú)",
+      "audioBatch": 1,
+      "media": []
+    },
+    {
+      "entryId": "000019",
+      "languages": {
+        "pu": "AICA",
+        "es": "Pez corroncho,cucha serrucho de tamaño pequeño, Científicamente pertenece a la familia de los Loricáridos (Loricariidae),"
+      },
+      "pronunciation": "(aíka)",
+      "audioBatch": 1,
+      "media": []
+    },
+    {
+      "entryId": "000020",
+      "languages": {
+        "pu": "AICOM",
+        "es": "Tengo que"
+      },
+      "pronunciation": "(aicom-)",
+      "audioBatch": 1,
+      "media": []
+    },
+    {
+      "entryId": "000021",
+      "languages": {
+        "pu": "AICOM NUG",
+        "es": "Tengo que ir"
+      },
+      "pronunciation": "(aikumnúc)",
+      "audioBatch": 2,
+      "media": []
+    },
+    {
+      "entryId": "000022",
+      "languages": {
+        "pu": "AM",
+        "es": "Abeja"
+      },
+      "pronunciation": "(´am)",
+      "audioBatch": 2,
+      "media": []
+    },
+    {
+      "entryId": "000023",
+      "languages": {
+        "pu": "AMDA",
+        "es": "Huérfano de padres"
+      },
+      "pronunciation": "(´amda)",
+      "audioBatch": 2,
+      "media": []
+    },
+    {
+      "entryId": "000024",
+      "languages": {
+        "pu": "AMJURE",
+        "es": "Abejar, enjambre"
+      },
+      "pronunciation": "(´amjure)",
+      "audioBatch": 2,
+      "media": []
+    },
+    {
+      "entryId": "000025",
+      "languages": {
+        "pu": "AMPOG",
+        "es": "Miel de abeja"
+      },
+      "pronunciation": "(ampoc)",
+      "audioBatch": 2,
+      "media": []
+    },
+    {
+      "entryId": "000026",
+      "languages": {
+        "pu": "AN",
+        "es": "Abuela"
+      },
+      "pronunciation": "(an ᷆   )",
+      "audioBatch": 2,
+      "media": []
+    },
+    {
+      "entryId": "000027",
+      "languages": {
+        "pu": "ANA",
+        "es": "Abuela"
+      },
+      "pronunciation": "(ána)",
+      "audioBatch": 2,
+      "media": []
+    },
+    {
+      "entryId": "000028",
+      "languages": {
+        "pu": "ANDAM",
+        "es": "Casabe recien hecho"
+      },
+      "pronunciation": "(andam)",
+      "audioBatch": 2,
+      "media": []
+    },
+    {
+      "entryId": "000029",
+      "languages": {
+        "pu": "ANSIJUM",
+        "es": "Casabe mojoso"
+      },
+      "pronunciation": "(ansijú)",
+      "audioBatch": 2,
+      "media": []
+    },
+    {
+      "entryId": "000030",
+      "languages": {
+        "pu": "ASI",
+        "es": "Voy a"
+      },
+      "pronunciation": "(asi)",
+      "audioBatch": 2,
+      "media": []
+    },
+    {
+      "entryId": "000031",
+      "languages": {
+        "pu": "ASINUG",
+        "es": "Voy a ir"
+      },
+      "pronunciation": "(asinúc)",
+      "audioBatch": 2,
+      "media": []
+    },
+    {
+      "entryId": "000032",
+      "languages": {
+        "pu": "ASIBOG",
+        "es": "Voy  a  caminar"
+      },
+      "pronunciation": "(asibog)",
+      "audioBatch": 2,
+      "media": []
+    },
+    {
+      "entryId": "000033",
+      "languages": {
+        "pu": "ASIQUIG",
+        "es": "Voy a llorar"
+      },
+      "pronunciation": "(asiquig)",
+      "audioBatch": 2,
+      "media": []
+    },
+    {
+      "entryId": "000034",
+      "languages": {
+        "pu": "ASURINA",
+        "es": "Gasolina"
+      },
+      "pronunciation": "(asurína)",
+      "audioBatch": 2,
+      "media": []
+    },
+    {
+      "entryId": "000035",
+      "languages": {
+        "pu": "AT",
+        "es": "Me"
+      },
+      "pronunciation": "(át)",
+      "audioBatch": 2,
+      "media": []
+    },
+    {
+      "entryId": "000036",
+      "languages": {
+        "pu": "ATCUI",
+        "es": "Me mandan"
+      },
+      "pronunciation": "(atcuí)",
+      "audioBatch": 2,
+      "media": []
+    },
+    {
+      "entryId": "000037",
+      "languages": {
+        "pu": "AUÑUN",
+        "es": "Avión"
+      },
+      "pronunciation": "(auñún)",
+      "audioBatch": 2,
+      "media": []
+    },
+    {
+      "entryId": "000038",
+      "languages": {
+        "pu": "AYAYA",
+        "es": "Pato colorado"
+      },
+      "pronunciation": "(allallá)",
+      "audioBatch": 2,
+      "media": []
+    },
+    {
+      "entryId": "000039",
+      "languages": {
+        "pu": "AU",
+        "es": "Bachaco"
+      },
+      "pronunciation": "(´au)",
+      "audioBatch": 2,
+      "media": []
+    },
+    {
+      "entryId": "000040",
+      "languages": {
+        "pu": "AU",
+        "es": "Cantar"
+      },
+      "pronunciation": "(áu)",
+      "audioBatch": 2,
+      "media": []
+    },
+    {
+      "entryId": "000041",
+      "languages": {
+        "pu": "MUAUYU",
+        "es": "Cantar"
+      },
+      "pronunciation": "(mua-uyu)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000042",
+      "languages": {
+        "pu": "ÃG",
+        "es": "Verde"
+      },
+      "pronunciation": "(ãc)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000043",
+      "languages": {
+        "pu": "IÃG",
+        "es": "Color verde"
+      },
+      "pronunciation": "(i ãc)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000044",
+      "languages": {
+        "pu": "ÃCARIG",
+        "es": "Morado para persona, animal o cosa"
+      },
+      "pronunciation": "(ãkaríc)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000045",
+      "languages": {
+        "pu": "IÃCARIG",
+        "es": "Morado para persona, animal o cosa"
+      },
+      "pronunciation": "(iãkaríc)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000046",
+      "languages": {
+        "pu": "ÃCAPIG",
+        "es": "Color  morado"
+      },
+      "pronunciation": "(ãkapíc)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000047",
+      "languages": {
+        "pu": "IÃCAPIG",
+        "es": "Color morado"
+      },
+      "pronunciation": "(iãkapíc)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000048",
+      "languages": {
+        "pu": "ÃJERE",
+        "es": "Angel"
+      },
+      "pronunciation": "(ã´jere)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000049",
+      "languages": {
+        "pu": "ÃM",
+        "es": "Yo"
+      },
+      "pronunciation": "(ãm)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000050",
+      "languages": {
+        "pu": "ÃN",
+        "es": "Casabe"
+      },
+      "pronunciation": "(ãn)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000051",
+      "languages": {
+        "pu": "ÃNCACOU",
+        "es": "Casabe medio seco"
+      },
+      "pronunciation": "(ancou-)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000052",
+      "languages": {
+        "pu": "ÃNDAM",
+        "es": "Casabe blando"
+      },
+      "pronunciation": "(ãn-dam-)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000053",
+      "languages": {
+        "pu": "ÃNDARÖG",
+        "es": "Casabe tostado"
+      },
+      "pronunciation": "(ãndaröc)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000054",
+      "languages": {
+        "pu": "ÃNPÖNCAG",
+        "es": "Mingado, bebida de mañoco o casabe  cocido"
+      },
+      "pronunciation": "(ãnpönkác)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000055",
+      "languages": {
+        "pu": "ÃNSEGOT",
+        "es": "Avispas  casabe , es un tipo de avispa que se llama casabe"
+      },
+      "pronunciation": "(ãnsec-ót)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000056",
+      "languages": {
+        "pu": "ÃNSIJUM",
+        "es": "Casabe humedecido"
+      },
+      "pronunciation": "(ãnsijúm)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000057",
+      "languages": {
+        "pu": "ÃN SISAN",
+        "es": "Casabe dulce"
+      },
+      "pronunciation": "(ãnsìsan)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000058",
+      "languages": {
+        "pu": "ÃNSIM",
+        "es": "Frutas silvestres de color amarillo"
+      },
+      "pronunciation": "(ãnsim-)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000059",
+      "languages": {
+        "pu": "ÃP",
+        "es": "Gaviota negra"
+      },
+      "pronunciation": "(ãp)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000060",
+      "languages": {
+        "pu": "ÃT",
+        "es": "Avispa casera de casa esférica"
+      },
+      "pronunciation": "(ãt-)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000061",
+      "languages": {
+        "pu": "ÃUYU",
+        "es": "Aguja"
+      },
+      "pronunciation": "(ãullu)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000062",
+      "languages": {
+        "pu": "ÃUYUPUN",
+        "es": "Palo de aguja"
+      },
+      "pronunciation": "(ãuyupu-n)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000063",
+      "languages": {
+        "pu": "ÃWI",
+        "es": "Jeringa"
+      },
+      "pronunciation": "(ãbi)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000064",
+      "languages": {
+        "pu": "ÃWIPUN",
+        "es": "Palo de aguja"
+      },
+      "pronunciation": "(ãbipu-n)",
+      "audioBatch": 3,
+      "media": []
+    },
+    {
+      "entryId": "000065",
+      "languages": {
+        "pu": "BA",
+        "es": "Morrocoy"
+      },
+      "pronunciation": "(vá)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000066",
+      "languages": {
+        "pu": "¡BA!",
+        "es": "Expresión de sorpresa"
+      },
+      "pronunciation": "(¡ba!)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000067",
+      "languages": {
+        "pu": "BACA",
+        "es": "Vaca, ganado"
+      },
+      "pronunciation": "(baka-)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000068",
+      "languages": {
+        "pu": "BAG",
+        "es": "Moqueado, asado"
+      },
+      "pronunciation": "(v ᷆  a c)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000069",
+      "languages": {
+        "pu": "¡BAG!",
+        "es": "Sonido o efecto de un golpe"
+      },
+      "pronunciation": "(¡vac!)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000070",
+      "languages": {
+        "pu": "BÁG",
+        "es": "Mucho-Mucha"
+      },
+      "pronunciation": "(vác)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000071",
+      "languages": {
+        "pu": "IBAG",
+        "es": "Mucho-Mucha"
+      },
+      "pronunciation": "(ivác)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000072",
+      "languages": {
+        "pu": "BAGBAG",
+        "es": "Sonido onomatopéyico cuando la danta u   otro animal  parte  chamizos  en  medio  de  la selva."
+      },
+      "pronunciation": "(vac-vac-)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000073",
+      "languages": {
+        "pu": "BAGBAG",
+        "es": "Sonido onomatopéyico al  explotar  yarumo  al  quemar  lo tumbado para el conuco"
+      },
+      "pronunciation": "(vac-vac)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000074",
+      "languages": {
+        "pu": "BAI",
+        "es": "Rayar,  cortar,  hacer  corte  con cuchillo"
+      },
+      "pronunciation": "(vái)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000075",
+      "languages": {
+        "pu": "BAM",
+        "es": "Inyectar"
+      },
+      "pronunciation": "(vám)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000076",
+      "languages": {
+        "pu": "MUBAMYU",
+        "es": "Inyectar"
+      },
+      "pronunciation": "(muvamllu)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000077",
+      "languages": {
+        "pu": "BAM",
+        "es": "Ahoyar"
+      },
+      "pronunciation": "(vám)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000078",
+      "languages": {
+        "pu": "EBUIBAMYU",
+        "es": "Inyectar,ahoyar,chuzar"
+      },
+      "pronunciation": "(evuivamllù)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000079",
+      "languages": {
+        "pu": "BÁT",
+        "es": "Enemigo"
+      },
+      "pronunciation": "(vát)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000080",
+      "languages": {
+        "pu": "MUBÁT",
+        "es": "Enemigo"
+      },
+      "pronunciation": "(muvát)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000081",
+      "languages": {
+        "pu": "BÁT",
+        "es": "Cruzar"
+      },
+      "pronunciation": "(vát)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000082",
+      "languages": {
+        "pu": "MUBATYÚ",
+        "es": "Cruzar"
+      },
+      "pronunciation": "(muvatllú)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000083",
+      "languages": {
+        "pu": "BAT",
+        "es": "Cuando"
+      },
+      "pronunciation": "(vat)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000084",
+      "languages": {
+        "pu": "A  NUG  BAT",
+        "es": "Cuando  voy"
+      },
+      "pronunciation": "(a nùc vat)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000085",
+      "languages": {
+        "pu": "A  WAG  BAT",
+        "es": "Cuando bailo"
+      },
+      "pronunciation": "(a  uac  vat)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000086",
+      "languages": {
+        "pu": "BAURUG",
+        "es": "Hendido-Hendida"
+      },
+      "pronunciation": "(vauruc-)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000087",
+      "languages": {
+        "pu": "IBAURUG",
+        "es": "Hendido-Hendida"
+      },
+      "pronunciation": "(ivaurüc᷆ )",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000088",
+      "languages": {
+        "pu": "WÃM   IBAURUG",
+        "es": "Olla hendida"
+      },
+      "pronunciation": "(úam iváurüc ᷆  )",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000089",
+      "languages": {
+        "pu": "BEG",
+        "es": "Morir"
+      },
+      "pronunciation": "(véec)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000090",
+      "languages": {
+        "pu": "MUBÉYU",
+        "es": "Morir"
+      },
+      "pronunciation": "(muvéllu)",
+      "audioBatch": 4,
+      "media": []
+    },
+    {
+      "entryId": "000091",
+      "languages": {
+        "pu": "BEG",
+        "es": "Acabar"
+      },
+      "pronunciation": "(véec)",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000092",
+      "languages": {
+        "pu": "IBEG",
+        "es": "Acabar"
+      },
+      "pronunciation": "(iveg)",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000093",
+      "languages": {
+        "pu": "JABEG",
+        "es": "Se acabó, se terminó, se murió"
+      },
+      "pronunciation": "(javec ᷆   )",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000094",
+      "languages": {
+        "pu": "BENDUG",
+        "es": "Tragar"
+      },
+      "pronunciation": "(véndug)",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000095",
+      "languages": {
+        "pu": "JABENDUG",
+        "es": "Se lo tragó"
+      },
+      "pronunciation": "(javénduc)",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000096",
+      "languages": {
+        "pu": "BEU",
+        "es": "Pescado cucha, corroncho"
+      },
+      "pronunciation": "(beu)",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000097",
+      "languages": {
+        "pu": "BI",
+        "es": "Nuestro,Nuestra"
+      },
+      "pronunciation": "(vi)",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000098",
+      "languages": {
+        "pu": "BIYOT",
+        "es": "Nuestro perro"
+      },
+      "pronunciation": "(villot)",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000099",
+      "languages": {
+        "pu": "BINUCO",
+        "es": "Vamos"
+      },
+      "pronunciation": "(vinùco)",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000100",
+      "languages": {
+        "pu": "BIPIN",
+        "es": "De nosotros, De nosotras"
+      },
+      "pronunciation": "(vipin)",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000101",
+      "languages": {
+        "pu": "BI",
+        "es": "Pajarito de la orilla del río"
+      },
+      "pronunciation": "(ví)",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000102",
+      "languages": {
+        "pu": "BI",
+        "es": "Arbol frutal silvestre"
+      },
+      "pronunciation": "(ví)",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000103",
+      "languages": {
+        "pu": "BII BIURUG",
+        "es": "Cuidémonos"
+      },
+      "pronunciation": "(viíbiúruc)",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000104",
+      "languages": {
+        "pu": "BIG",
+        "es": "Ojo"
+      },
+      "pronunciation": "(víc)",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000105",
+      "languages": {
+        "pu": "BIN",
+        "es": "Mezclar"
+      },
+      "pronunciation": "(vin´)",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000106",
+      "languages": {
+        "pu": "BIN",
+        "es": "Chuzar con  algo  gelatinoso  o blando"
+      },
+      "pronunciation": "(vin-)",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000107",
+      "languages": {
+        "pu": "BIGSIYAG",
+        "es": "Ceja"
+      },
+      "pronunciation": "(víc sillac)",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000108",
+      "languages": {
+        "pu": "BIGSIPU",
+        "es": "Parpado"
+      },
+      "pronunciation": "(vícsipu)",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000109",
+      "languages": {
+        "pu": "BIGSUT",
+        "es": "Pestaña"
+      },
+      "pronunciation": "(vícsut)",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000110",
+      "languages": {
+        "pu": "BIGSÕ",
+        "es": "Lagaña"
+      },
+      "pronunciation": "(vícsõ)",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000111",
+      "languages": {
+        "pu": "BIGTEPI",
+        "es": "Cristal negro del ojo"
+      },
+      "pronunciation": "(víctepi)",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000112",
+      "languages": {
+        "pu": "BIB",
+        "es": "Hierba, pasto"
+      },
+      "pronunciation": "(víb)",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000113",
+      "languages": {
+        "pu": "BIU",
+        "es": "Nos,  mos  de  plural"
+      },
+      "pronunciation": "(viu)",
+      "audioBatch": 5,
+      "media": []
+    },
+    {
+      "entryId": "000114",
+      "languages": {
+        "pu": "BIUNUG",
+        "es": "Nos vamos"
+      },
+      "pronunciation": "(viunúg)",
+      "audioBatch": 6,
+      "media": []
+    },
+    {
+      "entryId": "000115",
+      "languages": {
+        "pu": "BIUYAT",
+        "es": "Hablemos"
+      },
+      "pronunciation": "(llat)",
+      "audioBatch": 6,
+      "media": []
+    },
+    {
+      "entryId": "000116",
+      "languages": {
+        "pu": "BIUMAG",
+        "es": "Bañémonos"
+      },
+      "pronunciation": "(viumàc)",
+      "audioBatch": 6,
+      "media": []
+    },
+    {
+      "entryId": "000117",
+      "languages": {
+        "pu": "BIU",
+        "es": "codiciar,mirar con  ganas al  que está comiendo"
+      },
+      "pronunciation": "(viú)",
+      "audioBatch": 6,
+      "media": []
+    },
+    {
+      "entryId": "000118",
+      "languages": {
+        "pu": "BIRUT",
+        "es": "Nosotros,Nosotras"
+      },
+      "pronunciation": "(virút)",
+      "audioBatch": 6,
+      "media": []
+    },
+    {
+      "entryId": "000119",
+      "languages": {
+        "pu": "¿BIRUTTE?",
+        "es": "¿Somos nosotros-Somos nosotras?"
+      },
+      "pronunciation": "(virútte)",
+      "audioBatch": 6,
+      "media": []
+    },
+    {
+      "entryId": "000120",
+      "languages": {
+        "pu": "BIT",
+        "es": "Nosotros,Nosotras"
+      },
+      "pronunciation": "(vit)",
+      "audioBatch": 6,
+      "media": []
+    },
+    {
+      "entryId": "000121",
+      "languages": {
+        "pu": "BO",
+        "es": "Picure ,  (conocido científicamente como Dasyprocta fuliginosa, y también llamado agutí negro, ñeque, guatín o jochi según la región) es un mamífero roedor de tamaño mediano nativo de la selva amazónica"
+      },
+      "pronunciation": "(vó)",
+      "audioBatch": 6,
+      "media": []
+    },
+    {
+      "entryId": "000122",
+      "languages": {
+        "pu": "BO",
+        "es": "Brazo"
+      },
+      "pronunciation": "(bo-)",
+      "audioBatch": 6,
+      "media": []
+    },
+    {
+      "entryId": "000123",
+      "languages": {
+        "pu": "BOB",
+        "es": "Flecha"
+      },
+      "pronunciation": "(vób)",
+      "audioBatch": 6,
+      "media": []
+    },
+    {
+      "entryId": "000124",
+      "languages": {
+        "pu": "BOG",
+        "es": "Caminar"
+      },
+      "pronunciation": "(voc)",
+      "audioBatch": 6,
+      "media": []
+    },
+    {
+      "entryId": "000125",
+      "languages": {
+        "pu": "MUBOYÚ",
+        "es": "Caminar"
+      },
+      "pronunciation": "(mubollú)",
+      "audioBatch": 6,
+      "media": []
+    },
+    {
+      "entryId": "000126",
+      "languages": {
+        "pu": "BOI",
+        "es": "Oso hormiguero nocturno"
+      },
+      "pronunciation": "(voi)",
+      "audioBatch": 6,
+      "media": []
+    },
+    {
+      "entryId": "000127",
+      "languages": {
+        "pu": "BOI",
+        "es": "Sonido que emite algo blando"
+      },
+      "pronunciation": "(voi-)",
+      "audioBatch": 6,
+      "media": []
+    },
+    {
+      "entryId": "000128",
+      "languages": {
+        "pu": "BOON",
+        "es": "Nombre dado al héroe musical del pueblo puinave"
+      },
+      "pronunciation": "(vón)",
+      "audioBatch": 6,
+      "media": []
+    },
+    {
+      "entryId": "000129",
+      "languages": {
+        "pu": "BOT",
+        "es": "Transformarse"
+      },
+      "pronunciation": "(vót)",
+      "audioBatch": 6,
+      "media": []
+    },
+    {
+      "entryId": "000130",
+      "languages": {
+        "pu": "MUBOTYU",
+        "es": "Transformarse"
+      },
+      "pronunciation": "(muvotllú)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000131",
+      "languages": {
+        "pu": "IBOT",
+        "es": "Transformado"
+      },
+      "pronunciation": "(ivót)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000132",
+      "languages": {
+        "pu": "BOMAN",
+        "es": "Avispa tipo Picure"
+      },
+      "pronunciation": "(vóman)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000133",
+      "languages": {
+        "pu": "BON",
+        "es": "Varón,Hombre"
+      },
+      "pronunciation": "(von-)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000134",
+      "languages": {
+        "pu": "BONAM",
+        "es": "Almidón de yuca"
+      },
+      "pronunciation": "(vonám)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000135",
+      "languages": {
+        "pu": "BOU",
+        "es": "Gallineta"
+      },
+      "pronunciation": "(vóu)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000136",
+      "languages": {
+        "pu": "BU",
+        "es": "Mico maicero  (Sapajus apella)"
+      },
+      "pronunciation": "(vu)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000137",
+      "languages": {
+        "pu": "ABUSIG",
+        "es": "Tengo hambre"
+      },
+      "pronunciation": "(abusíc)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000138",
+      "languages": {
+        "pu": "BUG",
+        "es": "Romper  algo  hacia  un hueco por dentro"
+      },
+      "pronunciation": "(vuc-)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000139",
+      "languages": {
+        "pu": "BUG",
+        "es": "Se refiere al calbo"
+      },
+      "pronunciation": "(vúc)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000140",
+      "languages": {
+        "pu": "JUYABUG",
+        "es": "Calbo"
+      },
+      "pronunciation": "(jullac vúc)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000141",
+      "languages": {
+        "pu": "BURI",
+        "es": "Mico maicero  (Sapajus apella)"
+      },
+      "pronunciation": "(vúri)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000142",
+      "languages": {
+        "pu": "BUI",
+        "es": "Hambre, hambriento"
+      },
+      "pronunciation": "(vúi)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000143",
+      "languages": {
+        "pu": "BUM",
+        "es": "Escarabajo verde"
+      },
+      "pronunciation": "(vum)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000144",
+      "languages": {
+        "pu": "BUM",
+        "es": "Bejuco de curare ,Loganiaceae: Principalmente especies del género Strychnos (como Strychnos toxifera)"
+      },
+      "pronunciation": "(vum)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000145",
+      "languages": {
+        "pu": "BUM",
+        "es": "Cucarrón de cáncer"
+      },
+      "pronunciation": "(vum)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000146",
+      "languages": {
+        "pu": "BÚN",
+        "es": "Comején"
+      },
+      "pronunciation": "(vún)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000147",
+      "languages": {
+        "pu": "BÚP",
+        "es": "Garza"
+      },
+      "pronunciation": "(vúb)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000148",
+      "languages": {
+        "pu": "BÚT",
+        "es": "Oreja"
+      },
+      "pronunciation": "(vút)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000149",
+      "languages": {
+        "pu": "MUBÚT",
+        "es": "Oreja"
+      },
+      "pronunciation": "(muvút)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000150",
+      "languages": {
+        "pu": "BÚTPIN",
+        "es": "Arete"
+      },
+      "pronunciation": "(vútpin ᷆  )",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000151",
+      "languages": {
+        "pu": "BÚTUG",
+        "es": "Oído"
+      },
+      "pronunciation": "(vútuc)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000152",
+      "languages": {
+        "pu": "MUBÚTUG",
+        "es": "Oido"
+      },
+      "pronunciation": "(muvútuc)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000153",
+      "languages": {
+        "pu": "¿BÖÖ?",
+        "es": "¿Quién?"
+      },
+      "pronunciation": "(vö ᷆  ö)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000154",
+      "languages": {
+        "pu": "¿BÖIBÜ?",
+        "es": "¿Qué más?"
+      },
+      "pronunciation": "(vöívü)",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000155",
+      "languages": {
+        "pu": "BÖG",
+        "es": "Blanco"
+      },
+      "pronunciation": "(vöc ᷆  )",
+      "audioBatch": 7,
+      "media": []
+    },
+    {
+      "entryId": "000156",
+      "languages": {
+        "pu": "IBÖG",
+        "es": "Blanco"
+      },
+      "pronunciation": "(ivöc ᷆  )",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000157",
+      "languages": {
+        "pu": "BÖN",
+        "es": "Antes, hace tiempo"
+      },
+      "pronunciation": "(vön´)",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000158",
+      "languages": {
+        "pu": "¿BÖÖN?",
+        "es": "¿Dónde?"
+      },
+      "pronunciation": "(vön ᷆  )",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000159",
+      "languages": {
+        "pu": "BÖNWIN",
+        "es": "Antiguo, viejo, remoto"
+      },
+      "pronunciation": "(vön´uin)",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000160",
+      "languages": {
+        "pu": "BÖNWINJIN",
+        "es": "Milenario, antiguo, anticuado, pasado"
+      },
+      "pronunciation": "(vön´uingin)",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000161",
+      "languages": {
+        "pu": "BÖI",
+        "es": "Otro,Otra, por dónde"
+      },
+      "pronunciation": "(vëi ᷆   )",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000162",
+      "languages": {
+        "pu": "BÖISÜI",
+        "es": "Otro, otra vez"
+      },
+      "pronunciation": "(vöi ᷆  süi)",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000163",
+      "languages": {
+        "pu": "BÖIRIG-EB",
+        "es": "Maldito, malhechor"
+      },
+      "pronunciation": "(vöiric-eb)",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000164",
+      "languages": {
+        "pu": "BÖITEP",
+        "es": "Desgraciado, malhechor"
+      },
+      "pronunciation": "(vöi ᷆   tep)",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000165",
+      "languages": {
+        "pu": "¿BÖT?",
+        "es": "¿Quiénes?"
+      },
+      "pronunciation": "(vöt)",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000166",
+      "languages": {
+        "pu": "BÖT",
+        "es": "Otros,otras"
+      },
+      "pronunciation": "(vööt ᷆  )",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000167",
+      "languages": {
+        "pu": "BÖTSÜI",
+        "es": "Otros,otras"
+      },
+      "pronunciation": "(vööt ᷆   süi-)",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000168",
+      "languages": {
+        "pu": "BÜI",
+        "es": "Alisar"
+      },
+      "pronunciation": "(vüi-)",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000169",
+      "languages": {
+        "pu": "IBÜI",
+        "es": "Alisado"
+      },
+      "pronunciation": "(ivüi ᷆  )",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000170",
+      "languages": {
+        "pu": "BÜIRIG",
+        "es": "Liso"
+      },
+      "pronunciation": "(vüiríc)",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000171",
+      "languages": {
+        "pu": "IBÜIRIG",
+        "es": "Liso"
+      },
+      "pronunciation": "(ivüiríc)",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000172",
+      "languages": {
+        "pu": "BÜU",
+        "es": "Oscuro,noche"
+      },
+      "pronunciation": "(vüú)",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000173",
+      "languages": {
+        "pu": "IBÜÚ",
+        "es": "Noche, oscuridad"
+      },
+      "pronunciation": "(ivüú)",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000174",
+      "languages": {
+        "pu": "BÜU",
+        "es": "Ave pequeña"
+      },
+      "pronunciation": "(vüu)",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000175",
+      "languages": {
+        "pu": "BÜTBÜT",
+        "es": "Destello, rayo, luz"
+      },
+      "pronunciation": "(vüt-vüt)",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000176",
+      "languages": {
+        "pu": "CA",
+        "es": "Su de ellos,su de ellas"
+      },
+      "pronunciation": "(ka)",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000177",
+      "languages": {
+        "pu": "CAYOT",
+        "es": "Su perro, de ellos, de ellas"
+      },
+      "pronunciation": "(cayot)",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000178",
+      "languages": {
+        "pu": "CAYOI",
+        "es": "Ellos rien"
+      },
+      "pronunciation": "(cayoi)",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000179",
+      "languages": {
+        "pu": "CAMAN",
+        "es": "Ellos corren,ellas  corren"
+      },
+      "pronunciation": "(caman)",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000180",
+      "languages": {
+        "pu": "CANÜN",
+        "es": "Mico mono araguato"
+      },
+      "pronunciation": "(kanüm ᷆  )",
+      "audioBatch": 8,
+      "media": []
+    },
+    {
+      "entryId": "000181",
+      "languages": {
+        "pu": "CAG",
+        "es": "Sancocho, comida, ajicero"
+      },
+      "pronunciation": "(kak ᷆  )",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000182",
+      "languages": {
+        "pu": "IICÁYU",
+        "es": "Cocinar"
+      },
+      "pronunciation": "(iicáyu)",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000183",
+      "languages": {
+        "pu": "CAG",
+        "es": "Contar"
+      },
+      "pronunciation": "(kák)",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000184",
+      "languages": {
+        "pu": "IICAYU",
+        "es": "Contar"
+      },
+      "pronunciation": "(iika ᷆  llu)",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000185",
+      "languages": {
+        "pu": "CAGOT",
+        "es": "Olla de cocinar"
+      },
+      "pronunciation": "(Kák ᷆  ot)",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000186",
+      "languages": {
+        "pu": "CAGWE",
+        "es": "Gaviota blanca"
+      },
+      "pronunciation": "(káue)",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000187",
+      "languages": {
+        "pu": "CAI",
+        "es": "Caliente, calor"
+      },
+      "pronunciation": "(kaí)",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000188",
+      "languages": {
+        "pu": "ICÁIYU",
+        "es": "Calor"
+      },
+      "pronunciation": "(ikáyu)",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000189",
+      "languages": {
+        "pu": "ICAI",
+        "es": "Hace calor"
+      },
+      "pronunciation": "(ikái)",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000190",
+      "languages": {
+        "pu": "CAÍ",
+        "es": "Podrido"
+      },
+      "pronunciation": "(kaí)",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000191",
+      "languages": {
+        "pu": "ICAÍ",
+        "es": "Podrido,Podrida"
+      },
+      "pronunciation": "(ikaí)",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000192",
+      "languages": {
+        "pu": "ICAIPÖNJIN",
+        "es": "Podridumbre"
+      },
+      "pronunciation": "(ikaípöngin)",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000193",
+      "languages": {
+        "pu": "CAICUPI",
+        "es": "Curi silvestrre"
+      },
+      "pronunciation": "(káikupi)",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000194",
+      "languages": {
+        "pu": "CÁM",
+        "es": "Fruto,Fruta"
+      },
+      "pronunciation": "(kàm)",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000195",
+      "languages": {
+        "pu": "CAJIN",
+        "es": "Tosferina"
+      },
+      "pronunciation": "(kagín)",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000196",
+      "languages": {
+        "pu": "CATDUWÁ",
+        "es": "Pato aguijon"
+      },
+      "pronunciation": "(kadu-à)",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000197",
+      "languages": {
+        "pu": "CAWABIGRIG",
+        "es": "Huevo  de gallina"
+      },
+      "pronunciation": "(Káuavic-ric)",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000198",
+      "languages": {
+        "pu": "CÁU",
+        "es": "Dos"
+      },
+      "pronunciation": "(káau ᷆  )",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000199",
+      "languages": {
+        "pu": "CAU",
+        "es": "Que, órden de realizar algo de parte de nosotros  a  ellos-ellas"
+      },
+      "pronunciation": "(kau)",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000200",
+      "languages": {
+        "pu": "CAUMAN",
+        "es": "Que corran"
+      },
+      "pronunciation": "(kaumán)",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000201",
+      "languages": {
+        "pu": "CAUAU",
+        "es": "Que canten"
+      },
+      "pronunciation": "(kau-á ᷆  au)",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000202",
+      "languages": {
+        "pu": "CAUOU",
+        "es": "Que duerman"
+      },
+      "pronunciation": "(kauou᷆ )",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000203",
+      "languages": {
+        "pu": "CAUNUG",
+        "es": "Cuatro"
+      },
+      "pronunciation": "(caunúg)",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000204",
+      "languages": {
+        "pu": "CAWA",
+        "es": "Gallo, gallina"
+      },
+      "pronunciation": "(Káua)",
+      "audioBatch": 9,
+      "media": []
+    },
+    {
+      "entryId": "000205",
+      "languages": {
+        "pu": "CAWA",
+        "es": "Arbol  llamado cabo de hacha"
+      },
+      "pronunciation": "(Káua)",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000206",
+      "languages": {
+        "pu": "CÃGOT",
+        "es": "Tráquea"
+      },
+      "pronunciation": "(kãk –ot)",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000207",
+      "languages": {
+        "pu": "CÃG",
+        "es": "Sonido que dan algunos palos u otras cosas que se encuentran pegadas"
+      },
+      "pronunciation": "(kãk-)",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000208",
+      "languages": {
+        "pu": "CÃG",
+        "es": "Canto de ranas"
+      },
+      "pronunciation": "(kãk-)",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000209",
+      "languages": {
+        "pu": "KIMOT CÃG",
+        "es": "Cantan las ranas"
+      },
+      "pronunciation": "(kímot kããc ᷆  )",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000210",
+      "languages": {
+        "pu": "CÃGJIG",
+        "es": "Jalar produciendo sonido"
+      },
+      "pronunciation": "(kãḱjik)",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000211",
+      "languages": {
+        "pu": "CÃN",
+        "es": "Hamaca"
+      },
+      "pronunciation": "(kãn᷆ )",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000212",
+      "languages": {
+        "pu": "CÃN",
+        "es": "Maiz, mazorca"
+      },
+      "pronunciation": "(kãń-)",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000213",
+      "languages": {
+        "pu": "CÃN",
+        "es": "Nombre de la  hormiga negra aplanada"
+      },
+      "pronunciation": "(kãn᷆  )",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000214",
+      "languages": {
+        "pu": "CÃN",
+        "es": "Hiel"
+      },
+      "pronunciation": "(kãn ᷆  )",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000215",
+      "languages": {
+        "pu": "CÃN",
+        "es": "Orinar"
+      },
+      "pronunciation": "(kãn ᷆  )",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000216",
+      "languages": {
+        "pu": "CÃNCA",
+        "es": "Nombre de una planta de pepas moradas comestibles y medicinal"
+      },
+      "pronunciation": "(Kãn᷆   ka)",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000217",
+      "languages": {
+        "pu": "CÃNPOG",
+        "es": "Orine, meado"
+      },
+      "pronunciation": "(kãn ᷆  pok)",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000218",
+      "languages": {
+        "pu": "CÃNWEN",
+        "es": "Cerro  maiz ; árbol de vida del río zipapu río orinoco"
+      },
+      "pronunciation": "(kãnwen᷆   )",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000219",
+      "languages": {
+        "pu": "CÃM",
+        "es": "Vena"
+      },
+      "pronunciation": "(kãm)",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000220",
+      "languages": {
+        "pu": "CÃMCUI",
+        "es": "Pavo silvestre real"
+      },
+      "pronunciation": "(kãmkui)",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000221",
+      "languages": {
+        "pu": "COON",
+        "es": "Sasafrás"
+      },
+      "pronunciation": "(co-on-)",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000222",
+      "languages": {
+        "pu": "CUB",
+        "es": "Tarde"
+      },
+      "pronunciation": "(kúp)",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000223",
+      "languages": {
+        "pu": "ICUB",
+        "es": "Tarde"
+      },
+      "pronunciation": "(ikúp)",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000224",
+      "languages": {
+        "pu": "ICUBAT",
+        "es": "Por la tarde"
+      },
+      "pronunciation": "(ikúvat)",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000225",
+      "languages": {
+        "pu": "ICUBAT-U",
+        "es": "En la tarde, al atardecer"
+      },
+      "pronunciation": "(ikúvat-u)",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000226",
+      "languages": {
+        "pu": "BISÜICUBAT",
+        "es": "Buenas tardes"
+      },
+      "pronunciation": "(visiíkúvat)",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000227",
+      "languages": {
+        "pu": "CUÍ",
+        "es": "Mandar"
+      },
+      "pronunciation": "(Kuí)",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000228",
+      "languages": {
+        "pu": "MUÍCUIYU",
+        "es": "Mandar"
+      },
+      "pronunciation": "(muíkullú)",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000229",
+      "languages": {
+        "pu": "MUCUI",
+        "es": "El que hace mandados"
+      },
+      "pronunciation": "(mukui-)",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000230",
+      "languages": {
+        "pu": "CUI",
+        "es": "Luciérnaga"
+      },
+      "pronunciation": "(kuí)",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000231",
+      "languages": {
+        "pu": "CUMANA",
+        "es": "Fríjol"
+      },
+      "pronunciation": "(Kumaná)",
+      "audioBatch": 10,
+      "media": []
+    },
+    {
+      "entryId": "000232",
+      "languages": {
+        "pu": "CUMBIA",
+        "es": "Totumo silvestre"
+      },
+      "pronunciation": "(kúmbia)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000233",
+      "languages": {
+        "pu": "CUWA",
+        "es": "Expresión o dicho que significa, claro, es verdad, si así es."
+      },
+      "pronunciation": "(kuba)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000234",
+      "languages": {
+        "pu": "CUWAI",
+        "es": "Sabio, sabedor, vidente, curandero, médico tradicional"
+      },
+      "pronunciation": "(kubai)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000235",
+      "languages": {
+        "pu": "CÖN",
+        "es": "Corocoro"
+      },
+      "pronunciation": "(kö ᷆  n)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000236",
+      "languages": {
+        "pu": "CÖT",
+        "es": "Estrella"
+      },
+      "pronunciation": "(köt´)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000237",
+      "languages": {
+        "pu": "CÖT",
+        "es": "Rojo"
+      },
+      "pronunciation": "(köt-)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000238",
+      "languages": {
+        "pu": "ICÖT",
+        "es": "Rojo"
+      },
+      "pronunciation": "( iköt ᷆   )",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000239",
+      "languages": {
+        "pu": "CÖTI",
+        "es": "Arbol de pintura roja"
+      },
+      "pronunciation": "(Kötti)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000240",
+      "languages": {
+        "pu": "CÖTPIG",
+        "es": "Líquido rojo para colorear"
+      },
+      "pronunciation": "(köt´pic)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000241",
+      "languages": {
+        "pu": "CÖRICÖT",
+        "es": "estrellas pleyades"
+      },
+      "pronunciation": "(köríköt)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000242",
+      "languages": {
+        "pu": "CÜ",
+        "es": "Peraman, brea"
+      },
+      "pronunciation": "(kü)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000243",
+      "languages": {
+        "pu": "CÜG",
+        "es": "Barrer"
+      },
+      "pronunciation": "(küc)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000244",
+      "languages": {
+        "pu": "MUCÜYÚ",
+        "es": "Barrer"
+      },
+      "pronunciation": "(muküllú)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000245",
+      "languages": {
+        "pu": "CÜG",
+        "es": "Sonido que produce cuando se arrastra algo."
+      },
+      "pronunciation": "(küc)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000246",
+      "languages": {
+        "pu": "CÜNPÖN",
+        "es": "Cuajado se refiere a pescado desmenuzado, machacado-Machacada"
+      },
+      "pronunciation": "(künpön)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000247",
+      "languages": {
+        "pu": "CUSA",
+        "es": "Bocachico del Guaviare"
+      },
+      "pronunciation": "(kussa)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000248",
+      "languages": {
+        "pu": "CÜYU",
+        "es": "Escoba"
+      },
+      "pronunciation": "(küllú)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000249",
+      "languages": {
+        "pu": "CÜNOT",
+        "es": "Vuelan comejenes"
+      },
+      "pronunciation": "(kü´not)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000250",
+      "languages": {
+        "pu": "CÜMTAU",
+        "es": "Corriente de agua"
+      },
+      "pronunciation": "(küümtáu)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000251",
+      "languages": {
+        "pu": "DA",
+        "es": "Significa verbo ser y estar"
+      },
+      "pronunciation": "(da), (ra)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000252",
+      "languages": {
+        "pu": "DAG",
+        "es": "Sonido anomatopeyico de partir algo rústico y poco resistente"
+      },
+      "pronunciation": "(dac)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000253",
+      "languages": {
+        "pu": "DAI",
+        "es": "Cantidad grande"
+      },
+      "pronunciation": "(dai-)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000254",
+      "languages": {
+        "pu": "DAI CAIMUGRA   DIGWÖOT",
+        "es": "Cantidad grande de gusanos"
+      },
+      "pronunciation": "(dai-caimuc-rà  dic- uö`ot)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000255",
+      "languages": {
+        "pu": "DAI",
+        "es": "Sonido  o  acción  de  tumbar  un árbol"
+      },
+      "pronunciation": "(dái)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000256",
+      "languages": {
+        "pu": "DAITONUG",
+        "es": "Tumbar un  árbol"
+      },
+      "pronunciation": "(daitonúk)",
+      "audioBatch": 11,
+      "media": []
+    },
+    {
+      "entryId": "000257",
+      "languages": {
+        "pu": "DAM",
+        "es": "Introducir algo en algo blando, efecto de introducir, hacer coito"
+      },
+      "pronunciation": "(dam)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000258",
+      "languages": {
+        "pu": "DAMANÁ",
+        "es": "Iguana"
+      },
+      "pronunciation": "(damaná)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000259",
+      "languages": {
+        "pu": "DAN",
+        "es": "Nigua"
+      },
+      "pronunciation": "(d´an)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000260",
+      "languages": {
+        "pu": "DAP",
+        "es": "Mano"
+      },
+      "pronunciation": "(dáp)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000261",
+      "languages": {
+        "pu": "MURAP",
+        "es": "Mano"
+      },
+      "pronunciation": "(muráp)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000262",
+      "languages": {
+        "pu": "DAPCAM",
+        "es": "Dedo de la mano"
+      },
+      "pronunciation": "(dápkam)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000263",
+      "languages": {
+        "pu": "MURAPCAM",
+        "es": "Dedo de la mano"
+      },
+      "pronunciation": "(murámkam)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000264",
+      "languages": {
+        "pu": "DAPTÜM",
+        "es": "Cinco"
+      },
+      "pronunciation": "(dámtüm)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000265",
+      "languages": {
+        "pu": "DÁPYUI",
+        "es": "Anillo"
+      },
+      "pronunciation": "(dápllui)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000266",
+      "languages": {
+        "pu": "DAWACU",
+        "es": "Pececillo  amarrillo  de las orillas de las lagunas rojas"
+      },
+      "pronunciation": "(dabakú)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000267",
+      "languages": {
+        "pu": "DEE",
+        "es": "Cajuche,(también conocido como cafuche, zaíno o pecarí) es un mamífero artiodáctilo de la familia Tayassuidae, a menudo llamado \"cerdo salvaje\" o \"marrano de monte\""
+      },
+      "pronunciation": "(dee)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000268",
+      "languages": {
+        "pu": "DE",
+        "es": "Diente"
+      },
+      "pronunciation": "(de-)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000269",
+      "languages": {
+        "pu": "MU-RE",
+        "es": "Diente"
+      },
+      "pronunciation": "(mu re-)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000270",
+      "languages": {
+        "pu": "DEBÖM",
+        "es": "Marrano, cerdo"
+      },
+      "pronunciation": "(deböm)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000271",
+      "languages": {
+        "pu": "DEG",
+        "es": "Arbol maderable"
+      },
+      "pronunciation": "(d´ec)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000272",
+      "languages": {
+        "pu": "DEJUT",
+        "es": "Saíno, cajuche amarillo"
+      },
+      "pronunciation": "(de jut)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000273",
+      "languages": {
+        "pu": "DEJÚT",
+        "es": "Diente amarillo"
+      },
+      "pronunciation": "(dé jút)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000274",
+      "languages": {
+        "pu": "DEM",
+        "es": "Ayer"
+      },
+      "pronunciation": "(dem)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000275",
+      "languages": {
+        "pu": "DEMBÖM",
+        "es": "Anteayer"
+      },
+      "pronunciation": "(demböm)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000276",
+      "languages": {
+        "pu": "DEN",
+        "es": "Garrapata"
+      },
+      "pronunciation": "(de-n)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000277",
+      "languages": {
+        "pu": "DEN",
+        "es": "Mujer, hembra, mujer con cariño"
+      },
+      "pronunciation": "(dén)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000278",
+      "languages": {
+        "pu": "DÉNA",
+        "es": "Hermana de afecto"
+      },
+      "pronunciation": "(déna)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000279",
+      "languages": {
+        "pu": "DÉNPEG",
+        "es": "Mujer     grande, mujerota, mujer con cariño"
+      },
+      "pronunciation": "(dénpec-)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000280",
+      "languages": {
+        "pu": "DET",
+        "es": "Lapa"
+      },
+      "pronunciation": "(dét)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000281",
+      "languages": {
+        "pu": "DETPAT",
+        "es": "Mujeres, hembras"
+      },
+      "pronunciation": "(detpát)",
+      "audioBatch": 12,
+      "media": []
+    },
+    {
+      "entryId": "000282",
+      "languages": {
+        "pu": "DIG",
+        "es": "Pene"
+      },
+      "pronunciation": "(dik)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000283",
+      "languages": {
+        "pu": "MURIG",
+        "es": "Pene"
+      },
+      "pronunciation": "(murik)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000284",
+      "languages": {
+        "pu": "DIG",
+        "es": "Sonido enomatopeyico de partir un chamizo seco"
+      },
+      "pronunciation": "(dik)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000285",
+      "languages": {
+        "pu": "DIG",
+        "es": "Sonido que producen los huesos humanos"
+      },
+      "pronunciation": "(dik)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000286",
+      "languages": {
+        "pu": "DIÖG",
+        "es": "Dejar,  abandonar"
+      },
+      "pronunciation": "(diöc´)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000287",
+      "languages": {
+        "pu": "JA  RIÖG",
+        "es": "Lo dejo"
+      },
+      "pronunciation": "(jariöḱ)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000288",
+      "languages": {
+        "pu": "DIGRIG",
+        "es": "El que tiene pene, el macho"
+      },
+      "pronunciation": "(dic-ríc)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000289",
+      "languages": {
+        "pu": "DIGRIG",
+        "es": "Sonido  onomatopéyico de partir chamizos pequeños"
+      },
+      "pronunciation": "(dic-ríc)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000290",
+      "languages": {
+        "pu": "DIGWÖ",
+        "es": "Gusano"
+      },
+      "pronunciation": "(dic-uö´)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000291",
+      "languages": {
+        "pu": "DO",
+        "es": "Armadillo grande"
+      },
+      "pronunciation": "(do-)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000292",
+      "languages": {
+        "pu": "DOG",
+        "es": "Lengua"
+      },
+      "pronunciation": "(Do-c)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000293",
+      "languages": {
+        "pu": "MUROG",
+        "es": "Lengua"
+      },
+      "pronunciation": "(muroc)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000294",
+      "languages": {
+        "pu": "DOI",
+        "es": "Acción de tener sexo"
+      },
+      "pronunciation": "(dói)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000295",
+      "languages": {
+        "pu": "MURÓIYU",
+        "es": "Tener sexo"
+      },
+      "pronunciation": "(muróillu)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000296",
+      "languages": {
+        "pu": "DOIPIG",
+        "es": "Bien maduro, bien negro"
+      },
+      "pronunciation": "(doipíc)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000297",
+      "languages": {
+        "pu": "DOM",
+        "es": "Abuelo"
+      },
+      "pronunciation": "(dom)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000298",
+      "languages": {
+        "pu": "¿BÖIRIG IMAÖG DOM?",
+        "es": "¿Abuelo qué hace Usted?"
+      },
+      "pronunciation": "¿böirig imaög dom?",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000299",
+      "languages": {
+        "pu": "DOMA",
+        "es": "Abuelo"
+      },
+      "pronunciation": "(dòma)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000300",
+      "languages": {
+        "pu": "DOMATÜI",
+        "es": "Abuelito"
+      },
+      "pronunciation": "(dòmatüi ᷆  )",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000301",
+      "languages": {
+        "pu": "DONYAG",
+        "es": "Nombre de un árbol de revalses de pepas con tapa"
+      },
+      "pronunciation": "(don-llac-)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000302",
+      "languages": {
+        "pu": "DOU",
+        "es": "Hija"
+      },
+      "pronunciation": "(dóu)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000303",
+      "languages": {
+        "pu": "MUROU",
+        "es": "Hija"
+      },
+      "pronunciation": "(muróu)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000304",
+      "languages": {
+        "pu": "DOU-U",
+        "es": "Yerno"
+      },
+      "pronunciation": "(dóu-u)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000305",
+      "languages": {
+        "pu": "MUROU-U",
+        "es": "Yerno"
+      },
+      "pronunciation": "(murou- u)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000306",
+      "languages": {
+        "pu": "DOGPÁT",
+        "es": "Lengua larga"
+      },
+      "pronunciation": "(docpát)",
+      "audioBatch": 13,
+      "media": []
+    },
+    {
+      "entryId": "000307",
+      "languages": {
+        "pu": "DOT",
+        "es": "Camajai, veneno"
+      },
+      "pronunciation": "(dót)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000308",
+      "languages": {
+        "pu": "DOUTÜI",
+        "es": "Hijita, hija con cariño"
+      },
+      "pronunciation": "(doutüi-)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000309",
+      "languages": {
+        "pu": "DOUJIN",
+        "es": "Hija con cariño"
+      },
+      "pronunciation": "(dougín)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000310",
+      "languages": {
+        "pu": "DOWA",
+        "es": "Hermana,  hermanita  de cariño, hermana mayor"
+      },
+      "pronunciation": "(dóua)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000311",
+      "languages": {
+        "pu": "DOWA",
+        "es": "Hija mayor"
+      },
+      "pronunciation": "(dóba)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000312",
+      "languages": {
+        "pu": "DU",
+        "es": "Leña"
+      },
+      "pronunciation": "(du-)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000313",
+      "languages": {
+        "pu": "DUPÖ",
+        "es": "Trozo de leña que ya ha sido quemada"
+      },
+      "pronunciation": "(dupö-)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000314",
+      "languages": {
+        "pu": "DUI",
+        "es": "Luis"
+      },
+      "pronunciation": "(duí)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000315",
+      "languages": {
+        "pu": "DUG",
+        "es": "Avispa amarilla"
+      },
+      "pronunciation": "(duc-)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000316",
+      "languages": {
+        "pu": "DUGJIN",
+        "es": "Nombre dado al dios del pueblo Puinave"
+      },
+      "pronunciation": "(dukgín)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000317",
+      "languages": {
+        "pu": "DUGJIN",
+        "es": "Hijo con padre desconocido, huérfano"
+      },
+      "pronunciation": "(dukgín)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000318",
+      "languages": {
+        "pu": "DUMAT",
+        "es": "Ahora, ahorita"
+      },
+      "pronunciation": "(dúmat)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000319",
+      "languages": {
+        "pu": "DUMATYA",
+        "es": "Mas ahora"
+      },
+      "pronunciation": "(dumatlla)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000320",
+      "languages": {
+        "pu": "DUMJIG",
+        "es": "Sacar y penetrar"
+      },
+      "pronunciation": "(dumgíc)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000321",
+      "languages": {
+        "pu": "DUN",
+        "es": "Allá"
+      },
+      "pronunciation": "(dun-)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000322",
+      "languages": {
+        "pu": "DUPÖN",
+        "es": "Ombligo"
+      },
+      "pronunciation": "(dupön)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000323",
+      "languages": {
+        "pu": "DUT",
+        "es": "Aquellos,Aquellas"
+      },
+      "pronunciation": "(dút)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000324",
+      "languages": {
+        "pu": "DÖ",
+        "es": "Fuego, candela"
+      },
+      "pronunciation": "(dö)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000325",
+      "languages": {
+        "pu": "DÖG",
+        "es": "Caer"
+      },
+      "pronunciation": "(döc-)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000326",
+      "languages": {
+        "pu": "MURÖYÚ",
+        "es": "Caerse, caer"
+      },
+      "pronunciation": "(muröyú)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000327",
+      "languages": {
+        "pu": "DÖBÜT",
+        "es": "LLama de fuego, fogón"
+      },
+      "pronunciation": "(döbüt)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000328",
+      "languages": {
+        "pu": "DÖJIN",
+        "es": "Brasas, sarampión"
+      },
+      "pronunciation": "(dögin)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000329",
+      "languages": {
+        "pu": "DÖM",
+        "es": "Avispa"
+      },
+      "pronunciation": "(döm ᷆  )",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000330",
+      "languages": {
+        "pu": "DÖT",
+        "es": "Agua sucia"
+      },
+      "pronunciation": "(döť)",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000331",
+      "languages": {
+        "pu": "DÖTAO",
+        "es": "Carbón"
+      },
+      "pronunciation": "(dötau᷆  )",
+      "audioBatch": 14,
+      "media": []
+    },
+    {
+      "entryId": "000332",
+      "languages": {
+        "pu": "IÈP",
+        "es": "Que no sirve o no funciona, inservible"
+      },
+      "pronunciation": "(ièp)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000333",
+      "languages": {
+        "pu": "EP",
+        "es": "hierba"
+      },
+      "pronunciation": "(ép)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000334",
+      "languages": {
+        "pu": "EPIN",
+        "es": "Gente, persona"
+      },
+      "pronunciation": "(épin)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000335",
+      "languages": {
+        "pu": "ET",
+        "es": "Monte tumbado para conuco"
+      },
+      "pronunciation": "(ét)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000336",
+      "languages": {
+        "pu": "EWANI",
+        "es": "Nombre de un árbol maderable"
+      },
+      "pronunciation": "(ebaní)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000337",
+      "languages": {
+        "pu": "ICÖT",
+        "es": "Rojo"
+      },
+      "pronunciation": "(icöt)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000338",
+      "languages": {
+        "pu": "IPÁT",
+        "es": "Largo"
+      },
+      "pronunciation": "(ipát)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000339",
+      "languages": {
+        "pu": "ISHÜN",
+        "es": "Alto ,de estatura alta"
+      },
+      "pronunciation": "(ishün)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000340",
+      "languages": {
+        "pu": "ICAI",
+        "es": "Podrido"
+      },
+      "pronunciation": "(icaí)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000341",
+      "languages": {
+        "pu": "ICAI",
+        "es": "Caliente"
+      },
+      "pronunciation": "(ica´i)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000342",
+      "languages": {
+        "pu": "IBAG",
+        "es": "Mucho"
+      },
+      "pronunciation": "(ibág)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000343",
+      "languages": {
+        "pu": "ISARALIG",
+        "es": "Derecho"
+      },
+      "pronunciation": "(isáraric)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000344",
+      "languages": {
+        "pu": "I",
+        "es": "Padre, papá"
+      },
+      "pronunciation": "(i)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000345",
+      "languages": {
+        "pu": "MU I",
+        "es": "Padre, papá"
+      },
+      "pronunciation": "(mu i)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000346",
+      "languages": {
+        "pu": "A I",
+        "es": "Mi papá, mi padre"
+      },
+      "pronunciation": "(a i)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000347",
+      "languages": {
+        "pu": "í",
+        "es": "Piraña"
+      },
+      "pronunciation": "(í)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000348",
+      "languages": {
+        "pu": "IAG",
+        "es": "El que grita, grito"
+      },
+      "pronunciation": "(iàc)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000349",
+      "languages": {
+        "pu": "IAG",
+        "es": "Color verde"
+      },
+      "pronunciation": "(iãć)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000350",
+      "languages": {
+        "pu": "IÃCARIG",
+        "es": "De color morado, lo que se pone morado"
+      },
+      "pronunciation": "(iãkarìc)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000351",
+      "languages": {
+        "pu": "IÃCAPIG",
+        "es": "De color  morado"
+      },
+      "pronunciation": "(iãcapìc)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000352",
+      "languages": {
+        "pu": "IAU",
+        "es": "Cantante, cantora"
+      },
+      "pronunciation": "(iau᷆\t)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000353",
+      "languages": {
+        "pu": "IBAG",
+        "es": "Mucho-Mucha"
+      },
+      "pronunciation": "(ivàc)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000354",
+      "languages": {
+        "pu": "IBAGOT",
+        "es": "Muchos , Muchas"
+      },
+      "pronunciation": "(ivàc-ot)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000355",
+      "languages": {
+        "pu": "IBAGPÖN",
+        "es": "Asado, quemado"
+      },
+      "pronunciation": "(ivacpön)",
+      "audioBatch": 15,
+      "media": []
+    },
+    {
+      "entryId": "000356",
+      "languages": {
+        "pu": "DÜJOG",
+        "es": "Puerto"
+      },
+      "pronunciation": "(düjóc)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000357",
+      "languages": {
+        "pu": "DÜTPÖI",
+        "es": "Puerto"
+      },
+      "pronunciation": "(düt´pöi)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000358",
+      "languages": {
+        "pu": "DÜ",
+        "es": "Cargador de bebe"
+      },
+      "pronunciation": "(dü-)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000359",
+      "languages": {
+        "pu": "DÜ",
+        "es": "Arbol marimba"
+      },
+      "pronunciation": "(dü-)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000360",
+      "languages": {
+        "pu": "DÜI",
+        "es": "Pez pampano"
+      },
+      "pronunciation": "(düi)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000361",
+      "languages": {
+        "pu": "DÜI",
+        "es": "Salida de materia de una herida"
+      },
+      "pronunciation": "(düi)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000362",
+      "languages": {
+        "pu": "DÜM",
+        "es": "Libelula"
+      },
+      "pronunciation": "(düm᷆   )",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000363",
+      "languages": {
+        "pu": "DÜM",
+        "es": "Nalga"
+      },
+      "pronunciation": "(düm-)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000364",
+      "languages": {
+        "pu": "MURÜM",
+        "es": "Nalga"
+      },
+      "pronunciation": "(mu-rüm)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000365",
+      "languages": {
+        "pu": "DÜT",
+        "es": "Pita, lazo, mecate"
+      },
+      "pronunciation": "(düť)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000366",
+      "languages": {
+        "pu": "¡E!",
+        "es": "Admiración   si   alguien   hace   algo extravagante"
+      },
+      "pronunciation": "(¡e-)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000367",
+      "languages": {
+        "pu": "¡Ee!",
+        "es": "Expresión  propia  del  puinave  de  caño bocón que significa: ¡mentiras!"
+      },
+      "pronunciation": "(ee-)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000368",
+      "languages": {
+        "pu": "EB",
+        "es": "Hierva"
+      },
+      "pronunciation": "(éb)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000369",
+      "languages": {
+        "pu": "EB",
+        "es": "Enfermo-Enferma"
+      },
+      "pronunciation": "(éb)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000370",
+      "languages": {
+        "pu": "IEB",
+        "es": "Enfermo, mal de salud"
+      },
+      "pronunciation": "(iéb)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000371",
+      "languages": {
+        "pu": "EBA",
+        "es": "Mojarra negra"
+      },
+      "pronunciation": "(eba)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000372",
+      "languages": {
+        "pu": "EBERIG",
+        "es": "Feo,Fea"
+      },
+      "pronunciation": "(éveric)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000373",
+      "languages": {
+        "pu": "IEBERIG",
+        "es": "Feo,Fea"
+      },
+      "pronunciation": "(iéveric)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000374",
+      "languages": {
+        "pu": "EBUYA",
+        "es": "Figura, foto, imagen"
+      },
+      "pronunciation": "(ebulla)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000375",
+      "languages": {
+        "pu": "ECU",
+        "es": "Pez pámpano original"
+      },
+      "pronunciation": "(ekú)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000376",
+      "languages": {
+        "pu": "EI",
+        "es": "Tumbar  monte;"
+      },
+      "pronunciation": "(éi)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000377",
+      "languages": {
+        "pu": "MUEYU",
+        "es": "Tumbar monte para hacer conuco"
+      },
+      "pronunciation": "(muéllu)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000378",
+      "languages": {
+        "pu": "¡EI!",
+        "es": "¡hola!  Saludo"
+      },
+      "pronunciation": "(éi)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000379",
+      "languages": {
+        "pu": "ENDUG",
+        "es": "Hendido, cuerpo metido a raíz de un golpe"
+      },
+      "pronunciation": "(enduc´)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000380",
+      "languages": {
+        "pu": "EP",
+        "es": "Malo,Mala"
+      },
+      "pronunciation": "(ép)",
+      "audioBatch": 16,
+      "media": []
+    },
+    {
+      "entryId": "000381",
+      "languages": {
+        "pu": "IYAI",
+        "es": "Poco"
+      },
+      "pronunciation": "(illa´i)",
+      "audioBatch": 17,
+      "media": []
+    },
+    {
+      "entryId": "000382",
+      "languages": {
+        "pu": "IBEG",
+        "es": "Acabado,Acabada, concluido,concluida"
+      },
+      "pronunciation": "(ivec᷆   )",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000383",
+      "languages": {
+        "pu": "IBEG",
+        "es": "Difunto, muerto"
+      },
+      "pronunciation": "(ivec᷆   )",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000384",
+      "languages": {
+        "pu": "IBEGPÖN",
+        "es": "Culminado, finalizado, agotado; finado, difunto"
+      },
+      "pronunciation": "(ivecpön)",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000385",
+      "languages": {
+        "pu": "IBEPE",
+        "es": "Trabajador,Trabajadora"
+      },
+      "pronunciation": "(ivépe)",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000386",
+      "languages": {
+        "pu": "IBIU",
+        "es": "El que mira mucho cuando alguien come"
+      },
+      "pronunciation": "(iviù)",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000387",
+      "languages": {
+        "pu": "IBOG",
+        "es": "El que camina, caminante"
+      },
+      "pronunciation": "(ivoc-)",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000388",
+      "languages": {
+        "pu": "IBOMAN",
+        "es": "El o  la  persona que  arranca la yuca del cultivo"
+      },
+      "pronunciation": "(ivoman)",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000389",
+      "languages": {
+        "pu": "IBÖG",
+        "es": "Blanco"
+      },
+      "pronunciation": "(ivöc-)",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000390",
+      "languages": {
+        "pu": "IBÖGRA",
+        "es": "Blanca"
+      },
+      "pronunciation": "(ivöc-ra-)",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000391",
+      "languages": {
+        "pu": "IBOT",
+        "es": "Sabio, paye, clarividente"
+      },
+      "pronunciation": "(ivót)",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000392",
+      "languages": {
+        "pu": "IBÜU",
+        "es": "Oscuro"
+      },
+      "pronunciation": "(ivüù)",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000393",
+      "languages": {
+        "pu": "IBÜUYU",
+        "es": "Oscurecer, oscuridad"
+      },
+      "pronunciation": "(ivüullu)",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000394",
+      "languages": {
+        "pu": "ICAN",
+        "es": "El o la que orina"
+      },
+      "pronunciation": "(ika ᷆   n)",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000395",
+      "languages": {
+        "pu": "ICOI",
+        "es": "Rasca, rascarse"
+      },
+      "pronunciation": "(ikói)",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000396",
+      "languages": {
+        "pu": "ICOU-RA",
+        "es": "Serio,seria"
+      },
+      "pronunciation": "(ikòu)",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000397",
+      "languages": {
+        "pu": "ICUBAT",
+        "es": "Está tarde, en la tarde"
+      },
+      "pronunciation": "(ikúvat)",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000398",
+      "languages": {
+        "pu": "ICUBAT U",
+        "es": "Tarde, por la tarde"
+      },
+      "pronunciation": "(icuvat-u)",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000399",
+      "languages": {
+        "pu": "ICÖN",
+        "es": "Pescado   cabeza   manteco amarillo"
+      },
+      "pronunciation": "(iköń)",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000400",
+      "languages": {
+        "pu": "ICÖT",
+        "es": "Rojo"
+      },
+      "pronunciation": "(iköt ᷆  )",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000401",
+      "languages": {
+        "pu": "ICÖTPIG",
+        "es": "Rojo oscuro"
+      },
+      "pronunciation": "(ikötpic)",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000402",
+      "languages": {
+        "pu": "ICÖTJEO",
+        "es": "Rosado"
+      },
+      "pronunciation": "(ikötgeu)",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000403",
+      "languages": {
+        "pu": "ICÜG",
+        "es": "Barrendero"
+      },
+      "pronunciation": "(iküc ᷆   )",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000404",
+      "languages": {
+        "pu": "ICÜN",
+        "es": "Vuela el comején"
+      },
+      "pronunciation": "(ikün`)",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000405",
+      "languages": {
+        "pu": "ICÜMTAU",
+        "es": "Corriente fuerte de agua"
+      },
+      "pronunciation": "(iküm ᷆  tau)",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000406",
+      "languages": {
+        "pu": "IEB",
+        "es": "Enfermo-Enferma"
+      },
+      "pronunciation": "(i-éb)",
+      "audioBatch": 18,
+      "media": []
+    },
+    {
+      "entryId": "000407",
+      "languages": {
+        "pu": "IIBAG",
+        "es": "Lo que se asa"
+      },
+      "pronunciation": "(iivac᷆   )",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000408",
+      "languages": {
+        "pu": "IIBAI",
+        "es": "Cortado con cuchillo o con algo"
+      },
+      "pronunciation": "(iivài)",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000409",
+      "languages": {
+        "pu": "IEBERIG",
+        "es": "Feo,Fea"
+      },
+      "pronunciation": "(i-éveric)",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000410",
+      "languages": {
+        "pu": "IIG",
+        "es": "Transgresor, violador,  el que  practica incesto, corrupto"
+      },
+      "pronunciation": "(ii ᷆   c)",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000411",
+      "languages": {
+        "pu": "IIBOT  ÖG",
+        "es": "Lo que se puede convertir a algo"
+      },
+      "pronunciation": "(iivòt- öc`)",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000412",
+      "languages": {
+        "pu": "IICOG",
+        "es": "Lo que se puede cortar con cuchillo o machete"
+      },
+      "pronunciation": "(iikòc)",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000413",
+      "languages": {
+        "pu": "IIÑAIÖG",
+        "es": "Lo que se puede mover"
+      },
+      "pronunciation": "(iiñai ᷆  öc)",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000414",
+      "languages": {
+        "pu": "IISIG",
+        "es": "Quemar y  pelar  un animal  u  otra cosa a punto fuego"
+      },
+      "pronunciation": "(iìsìk-)",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000415",
+      "languages": {
+        "pu": "IISIG",
+        "es": "Sacar  con  red  algo,  sacer  con malla pescado o algo"
+      },
+      "pronunciation": "(iisìc ᷆   )",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000416",
+      "languages": {
+        "pu": "IITAI",
+        "es": "Lo que se puede quemar"
+      },
+      "pronunciation": "(iataì)",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000417",
+      "languages": {
+        "pu": "IJAI",
+        "es": "Alegre, contento,contenta"
+      },
+      "pronunciation": "(ijaì)",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000418",
+      "languages": {
+        "pu": "IJAG",
+        "es": "Pálido-Palida, rosado,rosada"
+      },
+      "pronunciation": "(ijàc)",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000419",
+      "languages": {
+        "pu": "ÍJAM",
+        "es": "Limpio, espacio despejado, conuco limpio, lugar limpio y sin malesa"
+      },
+      "pronunciation": "(ija-m)",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000420",
+      "languages": {
+        "pu": "IJASONÚG",
+        "es": "Palido-Palida, de color blanco"
+      },
+      "pronunciation": "(ijàsonùc)",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000421",
+      "languages": {
+        "pu": "IJÃP",
+        "es": "Cansado,Cansada"
+      },
+      "pronunciation": "(ijãp᷆  )",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000422",
+      "languages": {
+        "pu": "IJÁP",
+        "es": "Remador"
+      },
+      "pronunciation": "(ijàp)",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000423",
+      "languages": {
+        "pu": "IJAÍ",
+        "es": "Cariñoso,Cariñosa, Manso"
+      },
+      "pronunciation": "(ijaí)",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000424",
+      "languages": {
+        "pu": "IJAITENUG",
+        "es": "Manso-Mansa"
+      },
+      "pronunciation": "(ijaitenuc-)",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000425",
+      "languages": {
+        "pu": "IJEI",
+        "es": "Bueno,  excelente,  bienhechor, humano"
+      },
+      "pronunciation": "(igèi)",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000426",
+      "languages": {
+        "pu": "IJEIBÜM",
+        "es": "Dar gracias, rezar"
+      },
+      "pronunciation": "(igeibüm-)",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000427",
+      "languages": {
+        "pu": "ÍJIN",
+        "es": "Veneno de hoja de caribe,camajai en lengua curripaco"
+      },
+      "pronunciation": "(ìgin)",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000428",
+      "languages": {
+        "pu": "IJIP",
+        "es": "Amarrado"
+      },
+      "pronunciation": "(ijìp)",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000429",
+      "languages": {
+        "pu": "IJUG",
+        "es": "Vivo,Viva"
+      },
+      "pronunciation": "(ijuc)",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000430",
+      "languages": {
+        "pu": "IJUI",
+        "es": "Estudiante, alumno-alumna"
+      },
+      "pronunciation": "(ijúi)",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000431",
+      "languages": {
+        "pu": "IJUIPÖN",
+        "es": "Estudioso-estudiosa, educado-educada"
+      },
+      "pronunciation": "(ijuip)",
+      "audioBatch": 19,
+      "media": []
+    },
+    {
+      "entryId": "000432",
+      "languages": {
+        "pu": "IJAI",
+        "es": "Oleaje"
+      },
+      "pronunciation": "(ijài)",
+      "audioBatch": 20,
+      "media": []
+    },
+    {
+      "entryId": "000433",
+      "languages": {
+        "pu": "IJAIRA",
+        "es": "Cariñosa"
+      },
+      "pronunciation": "(ijàira)",
+      "audioBatch": 20,
+      "media": []
+    },
+    {
+      "entryId": "000434",
+      "languages": {
+        "pu": "IJUT",
+        "es": "Amarillo"
+      },
+      "pronunciation": "(ijút ᷆  )",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000435",
+      "languages": {
+        "pu": "IJUTJEU",
+        "es": "Naranja"
+      },
+      "pronunciation": "(ijùtgeu)",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000436",
+      "languages": {
+        "pu": "IÍJAM",
+        "es": "Algo fácil de estudiar"
+      },
+      "pronunciation": "(iìjam)",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000437",
+      "languages": {
+        "pu": "IÍJAM",
+        "es": "Despejado, conuco limpio"
+      },
+      "pronunciation": "(iìjam)",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000438",
+      "languages": {
+        "pu": "IIYÖG",
+        "es": "Sueño, pesadilla, visión"
+      },
+      "pronunciation": "(iillöć)",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000439",
+      "languages": {
+        "pu": "IRÖG",
+        "es": "Lo que se cae"
+      },
+      "pronunciation": "(irö ᷆  c)",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000440",
+      "languages": {
+        "pu": "IRÖGPÖN",
+        "es": "Caido,caida"
+      },
+      "pronunciation": "(iröc-pön-)",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000441",
+      "languages": {
+        "pu": "IRÜJÓG",
+        "es": "Saltó desde lo alto"
+      },
+      "pronunciation": "(irüjók)",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000442",
+      "languages": {
+        "pu": "IRÖN",
+        "es": "Achicopalado,achicopalada,  acomplejado,acomplejada, desanimado"
+      },
+      "pronunciation": "(irö`n)",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000443",
+      "languages": {
+        "pu": "IN",
+        "es": "Madre"
+      },
+      "pronunciation": "(in)",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000444",
+      "languages": {
+        "pu": "MU  IN",
+        "es": "Madre, mamá"
+      },
+      "pronunciation": "(mu  in)",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000445",
+      "languages": {
+        "pu": "IN",
+        "es": "Hijito,hijita, hijo con cariño"
+      },
+      "pronunciation": "(ìn)",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000446",
+      "languages": {
+        "pu": "INJA",
+        "es": "Tía hermana de mi mamá"
+      },
+      "pronunciation": "(injá)",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000447",
+      "languages": {
+        "pu": "INJA-Ú",
+        "es": "Tío, esposo de la hermana de mi mamá"
+      },
+      "pronunciation": "(inja ú)",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000448",
+      "languages": {
+        "pu": "INA",
+        "es": "Mamá, madre"
+      },
+      "pronunciation": "(iná)",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000449",
+      "languages": {
+        "pu": "INAI",
+        "es": "Árbol que tiene gusanos"
+      },
+      "pronunciation": "(inaì)",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000450",
+      "languages": {
+        "pu": "INAI",
+        "es": "Él o la que se pone a mirar fijo cuando uno come (como perros); el   o la que se pone envidiar ropa u otra cosa."
+      },
+      "pronunciation": "(inaì)",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000451",
+      "languages": {
+        "pu": "INAG",
+        "es": "Escritor"
+      },
+      "pronunciation": "(inác)",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000452",
+      "languages": {
+        "pu": "INAGPÖN",
+        "es": "Escrito"
+      },
+      "pronunciation": "(inàcpön)",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000453",
+      "languages": {
+        "pu": "INAGRA",
+        "es": "Escritora"
+      },
+      "pronunciation": "(inác ra)",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000454",
+      "languages": {
+        "pu": "INÜM",
+        "es": "Bravo-Brava"
+      },
+      "pronunciation": "(inüm ᷆  )",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000455",
+      "languages": {
+        "pu": "IMAN",
+        "es": "Atleta, corredor"
+      },
+      "pronunciation": "(imán)",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000456",
+      "languages": {
+        "pu": "IMÜM",
+        "es": "Pesado-Pesada"
+      },
+      "pronunciation": "(imü`m)",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000457",
+      "languages": {
+        "pu": "IÑAI",
+        "es": "En movimiento"
+      },
+      "pronunciation": "(iñai ᷆   )",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000458",
+      "languages": {
+        "pu": "IÑAIRÜG",
+        "es": "Algo en movimiento"
+      },
+      "pronunciation": "(iñairüc᷆    )",
+      "audioBatch": 21,
+      "media": []
+    },
+    {
+      "entryId": "000459",
+      "languages": {
+        "pu": "IÑÜM",
+        "es": "Mermado"
+      },
+      "pronunciation": "(iñüḿ)",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000460",
+      "languages": {
+        "pu": "IPÃG",
+        "es": "Difícil, duro, sufrido"
+      },
+      "pronunciation": "(ipãc᷆   )",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000461",
+      "languages": {
+        "pu": "IPAAG",
+        "es": "Viejo"
+      },
+      "pronunciation": "(ipac ᷆   )",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000462",
+      "languages": {
+        "pu": "IPAG",
+        "es": "Con vómito"
+      },
+      "pronunciation": "(ipàc)",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000463",
+      "languages": {
+        "pu": "IPAGPÖN",
+        "es": "Envejecido"
+      },
+      "pronunciation": "(ipakpön᷆ )",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000464",
+      "languages": {
+        "pu": "IPAGPÖN",
+        "es": "Ya crecido, adulto"
+      },
+      "pronunciation": "(pãkpön ᷆  )",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000465",
+      "languages": {
+        "pu": "IPÃGPÖN",
+        "es": "Masa de yuca exprimida"
+      },
+      "pronunciation": "(ipãc-pön)",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000466",
+      "languages": {
+        "pu": "IPÃGPÖN",
+        "es": "masa de yuca exprimida"
+      },
+      "pronunciation": "( ipãgpön)",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000467",
+      "languages": {
+        "pu": "IPARÜG",
+        "es": "Persona  adulta  de  avanzada edad"
+      },
+      "pronunciation": "(ipàrüc)",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000468",
+      "languages": {
+        "pu": "IPASONUG",
+        "es": "El que sufre de vomito"
+      },
+      "pronunciation": "(ipa-sonùc)",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000469",
+      "languages": {
+        "pu": "IPASONUG",
+        "es": "El que está vomitando"
+      },
+      "pronunciation": "(ipasonùc)",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000470",
+      "languages": {
+        "pu": "IPAI",
+        "es": "Pez colirrojo"
+      },
+      "pronunciation": "(ipaí)",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000471",
+      "languages": {
+        "pu": "IPÁT",
+        "es": "Alto ,de estatura alta"
+      },
+      "pronunciation": "(ipát)",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000472",
+      "languages": {
+        "pu": "IPATDA",
+        "es": "mujer alta, alta"
+      },
+      "pronunciation": "(ipátda)",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000473",
+      "languages": {
+        "pu": "IPIG",
+        "es": "Negro"
+      },
+      "pronunciation": "(ipik)",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000474",
+      "languages": {
+        "pu": "IPÜP",
+        "es": "azul"
+      },
+      "pronunciation": "(ipüp`)",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000475",
+      "languages": {
+        "pu": "IPÜPAG",
+        "es": "Acuñado,acuñada, apretado,apretada"
+      },
+      "pronunciation": "(ipü`pac)",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000476",
+      "languages": {
+        "pu": "IPÜG",
+        "es": "Rezandero"
+      },
+      "pronunciation": "(ipük)",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000477",
+      "languages": {
+        "pu": "IQUEI",
+        "es": "Odioso,odiosa, envidioso,envidiosa"
+      },
+      "pronunciation": "(ikeì)",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000478",
+      "languages": {
+        "pu": "IQUIT",
+        "es": "Hombre  o mujer caliente sexualmente; hoja o árbol que causa rasquiña"
+      },
+      "pronunciation": "(ikít)",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000479",
+      "languages": {
+        "pu": "IQUITDA",
+        "es": "Mujer  caliente  sexualmente, prostituta"
+      },
+      "pronunciation": "(iquítda)",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000480",
+      "languages": {
+        "pu": "IRAI",
+        "es": "Tumbado-tumbada o caída"
+      },
+      "pronunciation": "(irài)",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000481",
+      "languages": {
+        "pu": "ITAIPÖN",
+        "es": "Quemado-quemada"
+      },
+      "pronunciation": "(itaìpön-)",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000482",
+      "languages": {
+        "pu": "ÍRAG",
+        "es": "Caribe, piraña"
+      },
+      "pronunciation": "(ìrak)",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000483",
+      "languages": {
+        "pu": "IRAM",
+        "es": "Blando,blanda"
+      },
+      "pronunciation": "(iram-)",
+      "audioBatch": 22,
+      "media": []
+    },
+    {
+      "entryId": "000484",
+      "languages": {
+        "pu": "ISANBEJI",
+        "es": "Infinito"
+      },
+      "pronunciation": "(isanbèji)",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000485",
+      "languages": {
+        "pu": "ISANÜMI",
+        "es": "Manso, dócil"
+      },
+      "pronunciation": "(isannü`mi)",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000486",
+      "languages": {
+        "pu": "ISÃT",
+        "es": "Duro, àspero, resistente, templado-templada"
+      },
+      "pronunciation": "(isãt ᷆  )",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000487",
+      "languages": {
+        "pu": "ISARARIG",
+        "es": "Vertical,derecho,erguido, firme"
+      },
+      "pronunciation": "(isàric)",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000488",
+      "languages": {
+        "pu": "ISIJAN",
+        "es": "Que huele a  picho o  hediondo, contaminado,contaminada"
+      },
+      "pronunciation": "(ìsajan-)",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000489",
+      "languages": {
+        "pu": "ISOG",
+        "es": "Parado-parada o de pie"
+      },
+      "pronunciation": "(isoc)",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000490",
+      "languages": {
+        "pu": "ISOG   BIJÜYAT",
+        "es": "Jefe,dirigente, pastor, capitan"
+      },
+      "pronunciation": "(isoc  vijüllat)",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000491",
+      "languages": {
+        "pu": "ISÜN",
+        "es": "A lo Alto, cielo, arriba"
+      },
+      "pronunciation": "(isün`)",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000492",
+      "languages": {
+        "pu": "ISÜNNA",
+        "es": "En lo alto, en el cielo,"
+      },
+      "pronunciation": "(isünna)",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000493",
+      "languages": {
+        "pu": "ITAIPÖN",
+        "es": "Quemado"
+      },
+      "pronunciation": "(itaìpön-)",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000494",
+      "languages": {
+        "pu": "ITEG",
+        "es": "Sentado, monton"
+      },
+      "pronunciation": "(itec-)",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000495",
+      "languages": {
+        "pu": "ITI",
+        "es": "Paloma"
+      },
+      "pronunciation": "(iti)",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000496",
+      "languages": {
+        "pu": "IWAG",
+        "es": "Bailarín,Bailarina"
+      },
+      "pronunciation": "(iuac-)",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000497",
+      "languages": {
+        "pu": "IWÃN",
+        "es": "Amargo,amarga"
+      },
+      "pronunciation": "(iũàn)",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000498",
+      "languages": {
+        "pu": "IWAGRA",
+        "es": "Bailarina"
+      },
+      "pronunciation": "(iuagra)",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000499",
+      "languages": {
+        "pu": "IRAIPÖN",
+        "es": "Tumbado-tumbada o caída"
+      },
+      "pronunciation": "(irai-pön-)",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000500",
+      "languages": {
+        "pu": "IWANSAG",
+        "es": "Amargo,amarga"
+      },
+      "pronunciation": "(iũansac-)",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000501",
+      "languages": {
+        "pu": "IWIN",
+        "es": "Animal Raya"
+      },
+      "pronunciation": "(ibìn)",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000502",
+      "languages": {
+        "pu": "IWINSOG",
+        "es": "Mezquino, mezquina, tacaño- tacaña"
+      },
+      "pronunciation": "(ibìnsoc-)",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000503",
+      "languages": {
+        "pu": "IWOMAN",
+        "es": "Loco-loca   corriendo, frenético, perturbado"
+      },
+      "pronunciation": "(iuoman)",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000504",
+      "languages": {
+        "pu": "IWOG",
+        "es": "Tomador, bebedor"
+      },
+      "pronunciation": "(iboć)",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000505",
+      "languages": {
+        "pu": "IWÓINUG",
+        "es": "Partido,partida,quebrado- quebrada"
+      },
+      "pronunciation": "(iuoínuc)",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000506",
+      "languages": {
+        "pu": "IWOYAT",
+        "es": "Hablador de locura o de visiones"
+      },
+      "pronunciation": "(iuòllat-)",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000507",
+      "languages": {
+        "pu": "IWINSOG",
+        "es": "Mezquino"
+      },
+      "pronunciation": "(ibìnsok ᷆  )",
+      "audioBatch": 23,
+      "media": []
+    },
+    {
+      "entryId": "000508",
+      "languages": {
+        "pu": "IWINSOGPÖNJIN",
+        "es": "Mezquinoso-mezquinosa"
+      },
+      "pronunciation": "(ibìsokpöngìn)",
+      "audioBatch": 23,
+      "media": []
+    }
+  ]
+}
