@@ -89586,7 +89586,7 @@ A.mI.prototype={}
 A.MM.prototype={
 xt(){var s=0,r=A.T(t.GU),q,p=this,o,n,m,l,k,j,i,h,g,f
 var $async$xt=A.O(function(a,b){if(a===1)return A.Q(b,r)
-for(;;)switch(s){case 0:f=A.CX("https://poliyoko.github.io/APP-PUINAVE/audio-manifest.json")
+for(;;)switch(s){case 0:f=A.CX("https://poliyoko.github.io/SGODA-PUINAVE-WEB/audio-manifest.json")
 if(f==null||f.gjd()!=="https"||f.goW().length!==0||f.gkl().length===0)throw A.i(A.aG("El manifiesto de audio debe usar HTTPS."))
 s=3
 return A.P(p.b.tx("GET",f,null).YE(B.o0),$async$xt)
