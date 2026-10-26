@@ -43,6 +43,12 @@ jobs:
           assert m['dataset']=='REAL508'
           assert len(m['audio'])==508
           assert all(f'{i:06d}' in m['audio'] for i in range(1,509))
+          from pathlib import Path
+          for i in range(1,509):
+            key=f'{i:06d}'
+            assert m['audio'][key] == f'https://poliyoko.github.io/SGODA-PUINAVE-WEB/audio/pu/{key}.mp3'
+            f=Path('audio/pu') / (key+'.mp3')
+            assert f.is_file() and f.stat().st_size >= 128
           assert '/SGODA-PUINAVE-WEB/' in open('index.html',encoding='utf-8').read()
           print('PASS: compilado REAL508 y manifiesto de audios listo para Pages')
           PY
